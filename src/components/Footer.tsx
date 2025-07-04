@@ -7,8 +7,8 @@ export default function Footer() {
           <div className="md:col-span-2">
             <h3 className="text-2xl font-bold mb-4">🛠️ FreeToolsHub</h3>
             <p className="text-gray-400 mb-4 max-w-md">
-              Your one-stop destination for professional-grade web tools. 
-              Completely free, forever. No hidden fees, no subscriptions.
+              Just me building useful web tools. No fancy company, no investors, 
+              just someone who thinks the internet needs more free stuff.
             </p>
             <div className="flex space-x-4">
               <a href="https://twitter.com" className="text-gray-400 hover:text-white transition-colors" aria-label="Twitter">
@@ -56,7 +56,7 @@ export default function Footer() {
             </div>
             <div className="flex items-center space-x-2 bg-blue-900/30 px-4 py-2 rounded-lg">
               <span className="text-blue-400">🛡️</span>
-              <span className="text-sm font-medium">Privacy Friendly</span>
+              <span className="text-sm font-medium">No Tracking</span>
             </div>
             <div className="flex items-center space-x-2 bg-purple-900/30 px-4 py-2 rounded-lg">
               <span className="text-purple-400">🔒</span>
@@ -69,9 +69,9 @@ export default function Footer() {
           </div>
           
           <div className="text-center text-gray-400 text-sm">
-            <p>© 2025 FreeToolsHub. All rights reserved.</p>
+            <p>© 2025 FreeToolsHub. Just me + some AI.</p>
             <p className="mt-1">
-              Made with ❤️ for the community. No ads, no tracking, no nonsense.
+              Built because I was bored and thought it'd be cool.
             </p>
           </div>
         </div>

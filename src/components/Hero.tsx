@@ -12,8 +12,8 @@ export default function Hero() {
           
           {/* Subtitle */}
           <p className="mt-6 text-xl sm:text-2xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Access professional-grade web tools without paying a dime. 
-            No subscriptions, no hidden fees, no catch.
+            I'm building useful web tools with some AI help. 
+            Free to use, no strings attached. Just tools that actually work.
           </p>
           
           {/* Features */}
@@ -48,16 +48,16 @@ export default function Hero() {
           {/* Stats */}
           <div className="mt-16 grid grid-cols-1 gap-4 sm:grid-cols-3">
             <div className="text-center">
-              <div className="text-3xl font-bold text-gray-900 dark:text-white">50+</div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Free Tools</div>
+              <div className="text-3xl font-bold text-gray-900 dark:text-white">6</div>
+              <div className="text-sm text-gray-600 dark:text-gray-400">Tools in Progress</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-gray-900 dark:text-white">1M+</div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Happy Users</div>
+              <div className="text-3xl font-bold text-gray-900 dark:text-white">100%</div>
+              <div className="text-sm text-gray-600 dark:text-gray-400">Free & Open</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-gray-900 dark:text-white">0€</div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Forever Free</div>
+              <div className="text-3xl font-bold text-gray-900 dark:text-white">0</div>
+              <div className="text-sm text-gray-600 dark:text-gray-400">Trackers or Creepy Stuff</div>
             </div>
           </div>
         </div>

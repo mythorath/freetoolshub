@@ -13,7 +13,35 @@ FreeToolsHub is a modern web application that provides professional-grade tools 
 - **Modern UI** - Clean, professional interface with smooth animations
 - **Privacy First** - No tracking, no ads, no data collection
 
-## 🚀 Tools Available
+## � Managing Under Construction Status
+
+All tools are currently marked as "Under Construction" with large overlay stickers. To enable tools as you build them:
+
+### Quick Toggle Method
+1. **Open Developer Tools** - Click the "🔧 Dev Tools" button in the bottom-right corner
+2. **View Status** - See which tools are under construction vs. live
+3. **Edit Configuration** - Modify `src/config/tools.ts` to change status
+
+### Manual Configuration
+Edit `src/config/tools.ts` and change `isUnderConstruction` from `true` to `false`:
+
+```typescript
+{
+  id: 'pdf-converter',
+  title: 'PDF Converter',
+  // ... other properties
+  isUnderConstruction: false, // Change this to enable the tool
+}
+```
+
+### Construction Features
+- **Large Overlay Stickers** - Animated construction overlays on each tool
+- **"Under Construction" Buttons** - Yellow buttons with construction icons
+- **Notification System** - Users get notified when clicking construction tools
+- **Easy Toggle** - One-line change to enable/disable each tool
+- **Developer Panel** - Quick status overview in development mode
+
+## �🚀 Tools Available
 
 - **PDF Converter** - Convert files to and from PDF format
 - **Image Optimizer** - Compress images without quality loss

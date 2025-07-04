@@ -3,6 +3,7 @@ import Hero from '@/components/Hero';
 import BannerAd from '@/components/BannerAd';
 import ToolsGrid from '@/components/ToolsGrid';
 import Footer from '@/components/Footer';
+import DeveloperTools from '@/components/DeveloperTools';
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <ToolsGrid />
       </main>
       <Footer />
+      <DeveloperTools />
     </div>
   );
 }

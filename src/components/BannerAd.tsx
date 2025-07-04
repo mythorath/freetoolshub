@@ -8,10 +8,10 @@ export default function BannerAd() {
             <div className="bg-white dark:bg-gray-800 border-2 border-dashed border-gray-300 dark:border-gray-600 rounded-lg h-24 flex items-center justify-center">
               <div className="text-center">
                 <div className="text-gray-500 dark:text-gray-400 text-sm font-medium">
-                  📢 Banner Ad Space (728x90)
+                  📢 Tasteful Ad Space (728x90)
                 </div>
                 <div className="text-gray-400 dark:text-gray-500 text-xs mt-1">
-                  Unobtrusive advertising helps keep our tools free
+                  Non-intrusive ads help keep the tools free
                 </div>
               </div>
             </div>
