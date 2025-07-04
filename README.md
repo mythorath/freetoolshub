@@ -1,36 +1,129 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛠️ FreeToolsHub
 
-## Getting Started
+**Powerful Tools. Zero Cost. Forever.**
 
-First, run the development server:
+FreeToolsHub is a modern web application that provides professional-grade tools completely free of charge. Built with Next.js 14+ and Tailwind CSS, it offers a responsive, accessible, and beautiful user experience.
 
+## ✨ Features
+
+- **100% Free Forever** - No subscriptions, no hidden fees, no catch
+- **Dark Mode Support** - Seamless theme switching with localStorage persistence
+- **Responsive Design** - Optimized for all screen sizes
+- **Usage Tracking** - Local storage-based daily usage limits
+- **Modern UI** - Clean, professional interface with smooth animations
+- **Privacy First** - No tracking, no ads, no data collection
+
+## 🚀 Tools Available
+
+- **PDF Converter** - Convert files to and from PDF format
+- **Image Optimizer** - Compress images without quality loss
+- **Audio Trimmer** - Trim and edit audio files
+- **JSON Formatter** - Format and validate JSON data
+- **Resume Enhancer** - Create professional resumes
+- **Color Picker** - Pick colors and generate palettes
+
+## 🛠️ Technology Stack
+
+- **Framework**: Next.js 14+ with App Router
+- **Styling**: Tailwind CSS
+- **Language**: TypeScript
+- **Font**: Geist Sans & Geist Mono
+- **Icons**: Emoji-based with SVG fallbacks
+
+## 🚀 Getting Started
+
+1. **Clone the repository**:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yourusername/freetoolshub.git
+cd freetoolshub
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Install dependencies**:
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. **Run the development server**:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. **Open your browser** and visit [http://localhost:3000](http://localhost:3000)
 
-## Learn More
+## 📁 Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```
+freetoolshub/
+├── src/
+│   ├── app/
+│   │   ├── layout.tsx        # Root layout with metadata
+│   │   ├── page.tsx          # Homepage
+│   │   └── globals.css       # Global styles
+│   └── components/
+│       ├── Header.tsx        # Navigation with dark mode
+│       ├── Hero.tsx          # Hero section
+│       ├── BannerAd.tsx      # Ad placement
+│       ├── ToolsGrid.tsx     # Tools grid with usage tracking
+│       └── Footer.tsx        # Footer with trust badges
+├── public/                   # Static assets
+└── .github/
+    └── copilot-instructions.md
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎨 Design Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Sticky Navigation** - Always accessible header
+- **Smooth Animations** - Hover effects and transitions
+- **Trust Badges** - Security and privacy indicators
+- **Usage Limits** - Daily tool usage tracking
+- **CTA Buttons** - Clear call-to-action elements
 
-## Deploy on Vercel
+## 🚀 Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Vercel (Recommended)
+1. Push your code to GitHub
+2. Visit [Vercel](https://vercel.com/new)
+3. Import your repository
+4. Deploy automatically
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Other Platforms
+```bash
+npm run build
+npm run start
+```
+
+## 📱 Mobile Responsiveness
+
+- **Mobile-first approach** with Tailwind CSS
+- **Responsive grid layouts** for all screen sizes
+- **Touch-friendly buttons** and navigation
+- **Optimized typography** for readability
+
+## 🔒 Privacy & Security
+
+- **No data collection** - All processing happens locally
+- **No tracking** - We don't monitor user behavior
+- **No ads** - Clean, distraction-free experience
+- **Open source** - Complete transparency
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Acknowledgments
+
+- Built with [Next.js](https://nextjs.org)
+- Styled with [Tailwind CSS](https://tailwindcss.com)
+- Icons and emojis for visual appeal
+- Community feedback and suggestions
+
+---
+
+**Made with ❤️ for the community**
