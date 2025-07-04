@@ -60,11 +60,11 @@ export default function ToolsGrid() {
         {/* Section Header */}
         <div className="text-center mb-12">
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">
-            What I'm Working On
+            What I&apos;m Working On
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            These are the tools I'm building. Each one will be totally free because 
-            I think useful stuff shouldn't cost money.
+            These are the tools I&apos;m building. Each one will be totally free because 
+            I think useful stuff shouldn&apos;t cost money.
           </p>
         </div>
 

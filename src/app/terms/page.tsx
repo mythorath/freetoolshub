@@ -28,14 +28,14 @@ export default function Terms() {
             </ul>
 
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-8 mb-4">
-              What You Can't Do
+              What You Can&apos;t Do
             </h2>
 
             <ul className="list-disc pl-6 mb-6 space-y-1">
               <li>Try to break or hack the tools</li>
               <li>Use them for illegal stuff</li>
               <li>Spam the servers or abuse the service</li>
-              <li>Copy the entire website and claim it's yours</li>
+              <li>              Copy the entire website and claim it&apos;s yours</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-8 mb-4">
@@ -43,13 +43,13 @@ export default function Terms() {
             </h2>
 
             <p className="mb-4">
-              I built these tools to be helpful, but I can't guarantee they're perfect:
+              I built these tools to be helpful, but I can&apos;t guarantee they&apos;re perfect:
             </p>
 
             <ul className="list-disc pl-6 mb-6 space-y-1">
-              <li>Tools are provided "as is" - they might have bugs</li>
+              <li>              Tools are provided &ldquo;as is&rdquo; - they might have bugs</li>
               <li>Always keep backups of important files</li>
-              <li>I'm not responsible if something goes wrong</li>
+              <li>              I&apos;m not responsible if something goes wrong</li>
               <li>The tools might be down sometimes for maintenance</li>
             </ul>
 
@@ -60,8 +60,8 @@ export default function Terms() {
             <ul className="list-disc pl-6 mb-6 space-y-1">
               <li>You keep all rights to your files and data</li>
               <li>Most processing happens in your browser</li>
-              <li>If files are uploaded, they're deleted immediately after processing</li>
-              <li>I don't look at, store, or share your files</li>
+              <li>              If files are uploaded, they&apos;re deleted immediately after processing</li>
+              <li>              I don&apos;t look at, store, or share your files</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-8 mb-4">
@@ -69,7 +69,7 @@ export default function Terms() {
             </h2>
 
             <p className="mb-6">
-              I might update these terms occasionally. If I do, I'll update the date at the top. 
+              I might update these terms occasionally. If I do, I&apos;ll update the date at the top. 
               Nothing too dramatic - probably just clarifications or new tool features.
             </p>
 
@@ -78,8 +78,8 @@ export default function Terms() {
                 The Simple Version
               </h3>
               <p className="text-green-800 dark:text-green-200">
-                Use the tools however you want (legally). Don't try to break them. 
-                I'm not responsible if they mess up. Your files are yours. 
+                Use the tools however you want (legally). Don&apos;t try to break them. 
+                I&apos;m not responsible if they mess up. Your files are yours. 
                 Everything is free. Be cool.
               </p>
             </div>

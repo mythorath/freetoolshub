@@ -29,7 +29,7 @@ export default function UnderConstructionOverlay({ isVisible, toolName, toolIcon
         
         {/* Personal Message */}
         <div className="text-white text-sm font-medium mb-4 max-w-xs mx-auto">
-          I'm working on this one right now! 
+          I&apos;m working on this one right now! 
           <br />
           Should be done pretty soon 🤖
         </div>
@@ -43,7 +43,7 @@ export default function UnderConstructionOverlay({ isVisible, toolName, toolIcon
         
         {/* Call to Action */}
         <button className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors">
-          Tell Me When It's Done!
+          Tell Me When It&apos;s Done!
         </button>
       </div>
     </div>

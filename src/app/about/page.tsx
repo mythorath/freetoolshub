@@ -24,9 +24,9 @@ export default function About() {
             </h2>
 
             <ul className="list-disc pl-6 mb-6 space-y-1">
-              <li>Most "free" tools are actually freemium with artificial limits</li>
+              <li>Most &ldquo;free&rdquo; tools are actually freemium with artificial limits</li>
               <li>Many sites are covered in invasive ads and trackers</li>
-              <li>Simple tasks shouldn't require downloading software</li>
+              <li>Simple tasks shouldn&apos;t require downloading software</li>
               <li>I wanted to learn how to build these tools anyway</li>
               <li>The internet needs more genuinely free stuff</li>
             </ul>
@@ -47,11 +47,11 @@ export default function About() {
             </ul>
 
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-8 mb-4">
-              What's Coming
+              What&apos;s Coming
             </h2>
 
             <p className="mb-4">
-              I'm working on these tools (in no particular order):
+              I&apos;m working on these tools (in no particular order):
             </p>
 
             <ul className="list-disc pl-6 mb-6 space-y-1">
@@ -79,9 +79,9 @@ export default function About() {
             </h2>
 
             <p className="mb-6">
-              Got questions, suggestions, or just want to say hi? I'm always interested in 
-              hearing what tools people actually need. Since it's just me, I might take a 
-              while to respond, but I'll do my best.
+              Got questions, suggestions, or just want to say hi? I&apos;m always interested in 
+              hearing what tools people actually need. Since it&apos;s just me, I might take a 
+              while to respond, but I&apos;ll do my best.
             </p>
 
             <div className="bg-purple-50 dark:bg-purple-900/20 p-4 rounded-lg mt-8">
@@ -90,7 +90,7 @@ export default function About() {
               </h3>
               <p className="text-purple-800 dark:text-purple-200">
                 Good tools should be free and accessible. The web is better when useful 
-                things don't cost money. Sometimes the best projects come from someone 
+                things don&apos;t cost money. Sometimes the best projects come from someone 
                 just scratching their own itch.
               </p>
             </div>

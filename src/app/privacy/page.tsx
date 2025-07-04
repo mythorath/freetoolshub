@@ -13,7 +13,7 @@ export default function Privacy() {
             </p>
 
             <p className="mb-6">
-              This Privacy Policy describes how FreeToolsHub ("we", "our", or "us") collects, uses, and shares information when you use our website and tools.
+              This Privacy Policy describes how FreeToolsHub (&ldquo;we&rdquo;, &ldquo;our&rdquo;, or &ldquo;us&rdquo;) collects, uses, and shares information when you use our website and tools.
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-8 mb-4">
@@ -91,11 +91,11 @@ export default function Privacy() {
             </h2>
 
             <p className="mb-6">
-              We implement appropriate security measures to protect any information transmitted through our website. However, since we minimize data collection, there's not much to protect anyway.
+              We implement appropriate security measures to protect any information transmitted through our website. However, since we minimize data collection, there&apos;s not much to protect anyway.
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-8 mb-4">
-              Children's Privacy
+              Children&apos;s Privacy
             </h2>
 
             <p className="mb-6">
@@ -118,7 +118,7 @@ export default function Privacy() {
             </h2>
 
             <p className="mb-6">
-              We may update this privacy policy from time to time. Changes will be posted on this page with an updated date. We'll try to keep things simple and honest.
+              We may update this privacy policy from time to time. Changes will be posted on this page with an updated date. We&apos;ll try to keep things simple and honest.
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-8 mb-4">
@@ -126,16 +126,16 @@ export default function Privacy() {
             </h2>
 
             <p className="mb-6">
-              If you have questions about this privacy policy, feel free to reach out. I'm just one person building these tools, so I'll do my best to respond.
+              If you have questions about this privacy policy, feel free to reach out. I&apos;m just one person building these tools, so I&apos;ll do my best to respond.
             </p>
 
             <div className="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg mt-8">
               <h3 className="text-lg font-medium text-blue-900 dark:text-blue-300 mb-2">
-                TL;DR (Too Long; Didn't Read)
+                TL;DR (Too Long; Didn&apos;t Read)
               </h3>
               <p className="text-blue-800 dark:text-blue-200">
-                I don't collect your personal info. There are some ads to keep things free. 
-                Your files are processed locally when possible. I'm not trying to be creepy 
+                I don&apos;t collect your personal info. There are some ads to keep things free. 
+                Your files are processed locally when possible. I&apos;m not trying to be creepy 
                 or sell your data - I just want to build useful tools.
               </p>
             </div>

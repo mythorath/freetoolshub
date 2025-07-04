@@ -10,8 +10,8 @@ export default function Contact() {
           <div className="prose prose-gray dark:prose-invert max-w-none">
             
             <p className="mb-6">
-              Since this is just me building tools, I don't have a fancy contact system. 
-              But I'm always interested in hearing from people who use the tools!
+              Since this is just me building tools, I don&apos;t have a fancy contact system. 
+              But I&apos;m always interested in hearing from people who use the tools!
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-8 mb-4">
@@ -19,7 +19,7 @@ export default function Contact() {
             </h2>
 
             <ul className="list-disc pl-6 mb-6 space-y-1">
-              <li>🐛 Bug reports - if something's broken</li>
+              <li>🐛 Bug reports - if something&apos;s broken</li>
               <li>💡 Tool suggestions - what would be useful?</li>
               <li>🎯 Feature requests - ways to improve existing tools</li>
               <li>❓ Questions about how something works</li>
@@ -31,8 +31,8 @@ export default function Contact() {
             </h2>
 
             <p className="mb-6">
-              I'll try to respond within a few days. Keep in mind this is a side project, 
-              so sometimes life gets in the way. If it's urgent, mention that in your message.
+              I&apos;ll try to respond within a few days. Keep in mind this is a side project, 
+              so sometimes life gets in the way. If it&apos;s urgent, mention that in your message.
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-8 mb-4">
@@ -40,11 +40,11 @@ export default function Contact() {
             </h2>
 
             <p className="mb-4">
-              If you're reporting a bug or issue:
+              If you&apos;re reporting a bug or issue:
             </p>
 
             <ul className="list-disc pl-6 mb-6 space-y-1">
-              <li>What browser you're using</li>
+              <li>What browser you&apos;re using</li>
               <li>What you were trying to do</li>
               <li>What happened vs. what you expected</li>
               <li>Screenshots if relevant</li>
@@ -58,7 +58,7 @@ export default function Contact() {
                 Email: [Your Email Here]
               </p>
               <p className="text-blue-700 dark:text-blue-300 text-sm">
-                (I'll add the actual email address once I set one up for this project)
+                (I&apos;ll add the actual email address once I set one up for this project)
               </p>
             </div>
 
@@ -68,7 +68,7 @@ export default function Contact() {
               </h3>
               <p className="text-gray-700 dark:text-gray-300 text-sm">
                 I could build a contact form, but honestly, email is simpler and 
-                I don't want to deal with spam filtering and database management right now. 
+                I don&apos;t want to deal with spam filtering and database management right now. 
                 Maybe later if people really want it.
               </p>
             </div>

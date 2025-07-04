@@ -12,7 +12,7 @@ export default function Hero() {
           
           {/* Subtitle */}
           <p className="mt-6 text-xl sm:text-2xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            I'm building useful web tools with some AI help. 
+            I&apos;m building useful web tools with some AI help. 
             Free to use, no strings attached. Just tools that actually work.
           </p>
           

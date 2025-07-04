@@ -71,7 +71,7 @@ export default function Footer() {
           <div className="text-center text-gray-400 text-sm">
             <p>© 2025 FreeToolsHub. Just me + some AI.</p>
             <p className="mt-1">
-              Built because I was bored and thought it'd be cool.
+              Built because I was bored and thought it&apos;d be cool.
             </p>
           </div>
         </div>
